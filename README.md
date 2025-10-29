@@ -49,23 +49,21 @@ Desenvolver uma plataforma digital que permita à ONG:
 
   Estrutura de Pastas
 
-`
-projeto-Entrega-Final/
-├── index.html
-├── style.css
-├── js/
-│ ├── app.js
-│ ├── formValidation.js
-│ ├── storage.js
-│ └── events.js
-├── images/
-│ ├── equipe.jpg
-│ ├── projetos.png
-│ ├── adocao.png
-│ ├── vacinacao.png
-│ └── qrcode-pix.png
-└── README.md
-`
+
+projeto-Entrega-Final:
+•index.html
+•app.js
+•FormValidation.js
+•storage.js
+•events.js
+•style.css
+•logo.png
+•equipe.jpg
+•missao.png
+•projeto.png
+•qrcode-pix.png
+•vacinação.png
+•adocao.png
 
 ---
 
