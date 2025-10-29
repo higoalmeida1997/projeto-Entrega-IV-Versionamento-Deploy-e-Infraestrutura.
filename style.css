@@ -1,0 +1,115 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f4f4f4;
+}
+
+header {
+  background: #004080;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+header-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+}
+
+.logo {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+
+nav {
+  margin-top: 10px;
+}
+
+nav button {
+  margin: 5px;
+  padding: 10px 20px;
+  background: #0066cc;
+  color: white;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+nav button:hover {
+  background: #0099ff;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+.card {
+  background: white;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+form label {
+  display: block;
+  margin: 10px 0 5px;
+}
+
+form input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+button[type="submit"],
+button[type="button"] {
+  background: #004080;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+button[type="submit"]:hover,
+button[type="button"]:hover {
+  background: #0066cc;
+}
+
+.badge {
+  display: inline-block;
+  background: #007BFF;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 8px;
+  font-weight: bold;
+}
+
+#formFeedback {
+  margin-top: 15px;
+  font-weight: bold;
+}
+
+footer {
+  background: #004080;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  font-size: 0.9em;
+  margin-top: 40px;
+}
