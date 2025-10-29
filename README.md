@@ -72,7 +72,7 @@ projeto-Entrega-Final/
   Como acessar
 
 Este projeto está disponível via GitHub Pages:  
-  Clique aqui para acessar a plataforma
+  Clique aqui para acessar a plataforma:[https://higoalmeida1997.github.io/projeto-Entrega-IV-Versionamento-Deploy-e-Infraestrutura./]
 
 ---
 
