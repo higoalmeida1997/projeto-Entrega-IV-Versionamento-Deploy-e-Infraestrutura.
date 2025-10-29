@@ -74,41 +74,6 @@ Este projeto está disponível via GitHub Pages:
 
 ---
 
-  Competências Desenvolvidas
-
-  Técnicas
-
-- Domínio de HTML5, CSS3 e JavaScript  
-- Boas práticas de versionamento com Git  
-- Implementação de acessibilidade conforme WCAG 2.1  
-- Deploy em ambiente de produção  
-
-   Profissionais
-
-- Organização de tarefas com Issues e Milestones  
-- Comunicação técnica clara  
-- Resolução de problemas com foco em usabilidade  
-
-  Sociais
-
-- Consciência sobre o impacto social da tecnologia  
-- Responsabilidade com acessibilidade digital  
-- Ética no desenvolvimento de software  
-- Contribuição para causas sociais  
-
----
-
-  Impacto Esperado
-
-Este projeto visa não apenas avaliar conhecimentos técnicos, mas também:
-
--  Formar desenvolvedores conscientes do impacto social da tecnologia  
--  Criar produtos úteis que podem beneficiar organizações reais  
--  Desenvolver portfólio profissional de qualidade  
--  Estabelecer conexões com o terceiro setor brasileiro  
-
----
-
  Autor
 
 Higo Silva de Almeida  
