@@ -7,7 +7,7 @@ const pages = {
       </p>
 
       <div style="text-align: center; margin: 30px 0;">
-        <img src="img/equipe.jpg" alt="Equipe da ONG" style="width: 100%; max-width: 600px; border-radius: 8px;" />
+        <img src="equipe.jpg" alt="Equipe da ONG" style="width: 100%; max-width: 600px; border-radius: 8px;" />
       </div>
 
       <h3>Missão</h3>
@@ -45,14 +45,14 @@ const pages = {
       <div class="card" id="voluntariado">
         <h3>Seja um voluntário</h3>
         <p>Descubra oportunidades e faça parte da mudança!</p>
-        <img src="img/projetos.png" alt="Voluntários" width="350" />
+        <img src="projetos.png" alt="Voluntários" width="350" />
       </div>
 
       <div class="card" id="doacoes">
         <h3>Como Doar</h3>
         <p>Você pode realizar uma doação via Pix utilizando a chave abaixo:</p>
         <div style="text-align: center; margin-top: 20px;">
-          <img src="img/qrcode-pix.png" alt="QR Code Pix" width="220" />
+          <img src="qrcode-pix.png" alt="QR Code Pix" width="220" />
           <p class="badge">Chave Pix: doacoes@patasdaesperanca.org</p>
         </div>
       </div>
@@ -60,13 +60,13 @@ const pages = {
       <div class="card" id="adocao">
         <h3>Projeto de Adoção</h3>
         <p>Conectamos animais resgatados a famílias amorosas.</p>
-        <img src="img/adocao.png" alt="Adoção de animais" width="350" />
+        <img src="adocao.png" alt="Adoção de animais" width="350" />
       </div>
 
       <div class="card" id="vacinacao">
         <h3>Projeto de Vacinação</h3>
         <p>Campanhas regulares de vacinação para garantir a saúde dos animais.</p>
-        <img src="img/vacinacao.png" alt="Vacinação de animais" width="350" />
+        <img src="vacinacao.png" alt="Vacinação de animais" width="350" />
       </div>
 
       <footer>
